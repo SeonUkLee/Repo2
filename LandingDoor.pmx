@@ -15828,6 +15828,14 @@
         <property_values/>
         <language_translations/>
       </variable>
+      <variable name="Var_Int1" is_private="false" is_enabled="true" type="Integer" uuid="167e2e25-d7bb-4dea-b171-3d4a66da80ed" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
+      <variable name="Var_Int2" is_private="false" is_enabled="true" type="Integer" uuid="f02d7b7d-e669-4224-a34e-b5fadbc41700" is_read_only="false">
+        <property_values/>
+        <language_translations/>
+      </variable>
       <rules/>
       <relations/>
       <functions/>
@@ -15944,9 +15952,6 @@
             <language_translations/>
           </type_value>
         </type_values>
-      </type>
-      <type name="NewCustomType" uuid="5bcfafe1-ef0a-41f7-b808-e32552b8fadd" is_read_only="false">
-        <type_values/>
       </type>
     </variable_types>
     <property_groups>
